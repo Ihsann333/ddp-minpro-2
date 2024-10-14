@@ -3,7 +3,7 @@
 # NIM: 2409116051
 # Sistem Informasi B
 ![image](http![flowchart minpro 2](https://github.com/user-attachments/assets/28879d34-f7ba-4244-9f19-9d3072ed3aa9)
-s://github.com/user-attachments/assets/2620923c-6aca-4972-a670-485fc1cab3d1)
+![image](https://github.com/user-attachments/assets/af26b6ed-e8e6-43e6-bd18-b02cc30c8374)
 # Untuk menampilkan tabel dari library
 ![image](https://github.com/user-attachments/assets/bf167892-6023-45ca-bd46-dce7ba08d758)
 # Mendefinisikan daftar data_mobil yang berisi informasi tentang beberapa mobil, setiap mobil diwakili sebuah dictionary yang mencakup merek, model, tipe, dan tahun 
